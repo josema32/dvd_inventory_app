@@ -1,0 +1,5 @@
+c:\users\jenny\documents\visual studio 2015\Projects\DVDLenderUI\DVDLenderLibrary\bin\Debug\DVDLenderLibrary.dll
+c:\users\jenny\documents\visual studio 2015\Projects\DVDLenderUI\DVDLenderLibrary\bin\Debug\DVDLenderLibrary.pdb
+c:\users\jenny\documents\visual studio 2015\Projects\DVDLenderUI\DVDLenderLibrary\obj\Debug\DVDLenderLibrary.csprojResolveAssemblyReference.cache
+c:\users\jenny\documents\visual studio 2015\Projects\DVDLenderUI\DVDLenderLibrary\obj\Debug\DVDLenderLibrary.dll
+c:\users\jenny\documents\visual studio 2015\Projects\DVDLenderUI\DVDLenderLibrary\obj\Debug\DVDLenderLibrary.pdb

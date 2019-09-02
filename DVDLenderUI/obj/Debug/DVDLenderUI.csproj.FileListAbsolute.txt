@@ -1,0 +1,11 @@
+c:\users\jenny\documents\visual studio 2015\Projects\DVDLenderUI\DVDLenderUI\bin\Debug\DVDLenderUI.exe.config
+c:\users\jenny\documents\visual studio 2015\Projects\DVDLenderUI\DVDLenderUI\bin\Debug\DVDLenderUI.exe
+c:\users\jenny\documents\visual studio 2015\Projects\DVDLenderUI\DVDLenderUI\bin\Debug\DVDLenderUI.pdb
+c:\users\jenny\documents\visual studio 2015\Projects\DVDLenderUI\DVDLenderUI\obj\Debug\DVDLenderUI.csprojResolveAssemblyReference.cache
+c:\users\jenny\documents\visual studio 2015\Projects\DVDLenderUI\DVDLenderUI\obj\Debug\DVDLenderUI.MainForm.resources
+c:\users\jenny\documents\visual studio 2015\Projects\DVDLenderUI\DVDLenderUI\obj\Debug\DVDLenderUI.Properties.Resources.resources
+c:\users\jenny\documents\visual studio 2015\Projects\DVDLenderUI\DVDLenderUI\obj\Debug\DVDLenderUI.csproj.GenerateResource.Cache
+c:\users\jenny\documents\visual studio 2015\Projects\DVDLenderUI\DVDLenderUI\obj\Debug\DVDLenderUI.exe
+c:\users\jenny\documents\visual studio 2015\Projects\DVDLenderUI\DVDLenderUI\obj\Debug\DVDLenderUI.pdb
+c:\users\jenny\documents\visual studio 2015\Projects\DVDLenderUI\DVDLenderUI\bin\Debug\DVDLenderLibrary.dll
+c:\users\jenny\documents\visual studio 2015\Projects\DVDLenderUI\DVDLenderUI\bin\Debug\DVDLenderLibrary.pdb
